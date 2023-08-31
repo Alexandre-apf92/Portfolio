@@ -1,0 +1,79 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+
+.minha_foto {
+    float: left;
+    width: 20%;
+    border: 10px #000000 solid;
+    box-sizing: border-box;
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    -webkit-border-radius: 20em;
+    -moz-border-radius: 20em;
+    border-radius: 20em;
+}
+
+.moldure {
+    background-color: red;
+}
+
+.conteudo {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+
+.objetivo {
+    margin-top: 180px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 900;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.carreira {
+    margin-top: 30px;
+    margin-left: 1px;
+}
+
+h5 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+p {
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+ul {
+    margin-left: 15px;
+}
+
+ul li {
+    font-size: 11px;
+    padding: 3px 0;
+}
+
+h6 {
+    padding: 5px 10px;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.footer {
+    color: #ffffff;
+    background-color: black;
+}
