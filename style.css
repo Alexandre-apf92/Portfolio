@@ -16,10 +16,6 @@ body {
     border-radius: 20em;
 }
 
-.moldure {
-    background-color: red;
-}
-
 .conteudo {
     width: 50%;
     margin-top: 10px;
@@ -27,7 +23,6 @@ body {
 }
 
 .objetivo {
-    margin-top: 180px;
     margin-left: 20px;
     margin-right: 20px;
 }
